@@ -1,11 +1,10 @@
 [![MIT License][license-shield]][license-url]
-
 <!-- LOGO -->
+<h4 align="center">A Jekyll Theme by DeerRIDER.</h4>
 <p align="center">
   <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
     <img src="src/assets/img/favicon.png" alt="Logo" width="250" height="250">
   </a>
-  <h3 align="center">A Jekyll Theme by DeerRIDER.</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
