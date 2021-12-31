@@ -3,9 +3,9 @@
 <!-- LOGO -->
 <p align="center">
   <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
-    <img src="src/assets/img/favicon.png" alt="Logo" width="120" height="120">
+    <img src="src/assets/img/favicon.png" alt="Logo" width="200" height="200">
   </a>
-  <h3 align="center">pRoJEct-VeXEd v 2.4</h3>
+  pRoJEct-VeXEd v 2.4
     <br />
 </p>
 
