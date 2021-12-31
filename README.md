@@ -16,8 +16,8 @@ Distribuït sota llicència MIT. Vegeu <a href="https://github.com/senyirauxa/se
 <!-- ÍNDEX -->
 ## Índex
 - [Comença](#comença)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Prerequisits](#prerequisits)
+  - [Instal·lació](#instal·lació)
   - [Personalize and Customize](#personalize-and-customize)
     - [_config.yml](#_configyml)
     - [Collections](#collections)
@@ -28,7 +28,7 @@ Distribuït sota llicència MIT. Vegeu <a href="https://github.com/senyirauxa/se
 
 ## Comença
 
-### Prerequisites
+### Prerequisits
 * rubygems
 
 The installation of gem is depend on your operating system. Alternatively, you can download Gem through browser: [Ruby](https://www.ruby-lang.org/en/downloads/), and install rubygems manually.
@@ -63,7 +63,7 @@ bundler install jekyll
 gem install jekyll-sitemap jekyll-feed jekyll-seo-tag jekyll-mermaid
 ```
 
-### Installation
+### Instal·lació
 
 1. Fork this project on [github](https://github.com/akiritsu/pRoJEct-VeXEd), change project settings, and clone your own repository into your local disk.
 
