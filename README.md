@@ -203,37 +203,10 @@ excerpt: "This is excerpt." # string
 abstract: "This is abstract. Abstract is blank by default." # string
 ```
 
-## Roadmap
-
-1. On-browser code execution teminal.
-2. Code review mode.
-3. Slide mode.
-4. Rapid cheatsheet access.
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-<!-- CONTACT -->
-## Contact
-
-DeerRIDER - [Email](mailto://deerrider666@outlook.com)
-
-Project Link: [https://github.com/akiritsu/pRoJEct-VeXEd](https://github.com/akiritsu/pRoJEct-VeXEd)
 
 [license-shield]: https://img.shields.io/github/license/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
 [license-url]: https://github.com/senyirauxa/senyirauxa.github.io/blob/master/LICENSE
