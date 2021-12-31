@@ -242,4 +242,4 @@ Project Link: [https://github.com/akiritsu/pRoJEct-VeXEd](https://github.com/aki
 [issues-shield]: https://img.shields.io/github/issues/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
 [issues-url]: https://github.com/akiritsu/pRoJEct-VeXEd/issues
 [license-shield]: https://img.shields.io/github/license/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
-[license-url]: https://https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE.txt
+[license-url]: https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE.txt
