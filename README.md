@@ -3,7 +3,7 @@
 <h4 align="center">A Jekyll Theme by DeerRIDER.</h4>
 <p align="center">
   <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
-    <img src="src/assets/img/favicon.png" alt="Logo" width="300" height="300">
+    <img src="src/assets/img/favicon.png" alt="Logo" width="275" height="275">
   </a>
 </p>
 
