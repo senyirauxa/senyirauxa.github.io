@@ -1,4 +1,4 @@
-[![MIT License][license-shield]][license-url]
+<p align="center">[![MIT License][license-shield]][license-url]</p>
 
 <!-- LOGO -->
 <br />
