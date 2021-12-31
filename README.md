@@ -13,8 +13,8 @@
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
+<!-- ÍNDEX -->
+## Índex
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
