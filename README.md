@@ -18,7 +18,7 @@ Distribuït sota llicència MIT. Vegeu <a href="https://github.com/senyirauxa/se
 - [Comença](#comença)
   - [Prerequisits](#prerequisits)
   - [Instal·lació](#installació)
-  - [Personalize and Customize](#personalize-and-customize)
+  - [Personalitza](#personalitza)
     - [_config.yml](#_configyml)
     - [Collections](#collections)
     - [Writing](#writing)
@@ -77,7 +77,7 @@ git clone https://github.com/{{YOUR_USERNAME}}/{{YOUR_REPOSITORY}}.git
 cd {{YOUR_REPOSITORY_DIR}}
 ```
 
-### Personalize and Customize
+### Personalitza
 
 #### _config.yml
 
