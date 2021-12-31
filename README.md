@@ -9,17 +9,6 @@
   </a>
   <h3 align="center">pRoJEct-VeXEd v 2.4</h3>
     <br />
-  <p align="center">
-    pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
-    <br />
-    <br />
-    <a href="https://akiritsu.github.io/pRoJEct-VeXEd/">View Demo</a>
-    ·
-    <a href="https://github.com/akiritsu/pRoJEct-VeXEd/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/akiritsu/pRoJEct-VeXEd/issues">Request Feature</a>
-  </p>
-
 </p>
 
 <!-- TABLE OF CONTENTS -->
