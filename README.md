@@ -1,11 +1,9 @@
 [![MIT License][license-shield]][license-url]
 
 <!-- LOGO -->
-<br />
-
 <p align="center">
   <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
-    <img src="src/assets/img/favicon.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/img/favicon.png" alt="Logo" width="120" height="120">
   </a>
   <h3 align="center">pRoJEct-VeXEd v 2.4</h3>
     <br />
@@ -28,10 +26,7 @@
     - [Comment](#comment)
     - [Test locally](#test-locally)
     - [Front Matter](#front-matter)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 
 <!-- ABOUT THE PROJECT -->
