@@ -3,10 +3,9 @@
 <!-- LOGO -->
 <p align="center">
   <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
-    <img src="src/assets/img/favicon.png" alt="Logo" width="200" height="200">
+    <img src="src/assets/img/favicon.png" alt="Logo" width="250" height="250">
   </a>
-  <h5 align="center">A Jekyll Theme by DeerRIDER.</h5>
-    <br />
+  <h3 align="center">A Jekyll Theme by DeerRIDER.</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
