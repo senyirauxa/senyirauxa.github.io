@@ -9,8 +9,6 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-
-- [Table of Contents](#table-of-contents)
 - [License](#license)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
