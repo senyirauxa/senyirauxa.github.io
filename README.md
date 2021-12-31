@@ -1,4 +1,3 @@
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 <!-- LOGO -->
@@ -239,8 +238,8 @@ Project Link: [https://github.com/akiritsu/pRoJEct-VeXEd](https://github.com/aki
 [forks-shield]: https://img.shields.io/github/forks/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
 [forks-url]: https://github.com/akiritsu/pRoJEct-VeXEd/network/members
 [stars-shield]: https://img.shields.io/github/stars/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
-[stars-url]: https://https://github.com/akiritsu/pRoJEct-VeXEd/stargazers
+[stars-url]: https://github.com/akiritsu/pRoJEct-VeXEd/stargazers
 [issues-shield]: https://img.shields.io/github/issues/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
-[issues-url]: https://https://github.com/akiritsu/pRoJEct-VeXEd/issues
+[issues-url]: https://github.com/akiritsu/pRoJEct-VeXEd/issues
 [license-shield]: https://img.shields.io/github/license/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
 [license-url]: https://https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE.txt
