@@ -11,7 +11,7 @@
 <!-- LLICÈNCIA -->
 ## Llicència
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distribuït sota llicència MIT. Vegeu `LICENSE` per a més informació.
 
 <!-- ÍNDEX -->
 ## Índex
