@@ -1,4 +1,5 @@
 [![MIT License][license-shield]][license-url]
+
 <!-- LOGO -->
 <h4 align="center">A Jekyll Theme by DeerRIDER.</h4>
 <p align="center">
@@ -6,10 +7,12 @@
     <img src="src/assets/img/favicon.png" alt="Logo" width="275" height="275">
   </a>
 </p>
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 - [Getting Started](#getting-started)
