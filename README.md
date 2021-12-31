@@ -5,7 +5,7 @@
   <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
     <img src="src/assets/img/favicon.png" alt="Logo" width="200" height="200">
   </a>
-  <h5 align="center">pRoJEct-VeXEd Jekyll Theme v.2.4 by DeerRIDER.</h5>
+  <h5 align="center">pRoJEct-VeXEd (2.4). Jekyll Theme by DeerRIDER.</h5>
     <br />
 </p>
 
