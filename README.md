@@ -11,6 +11,7 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [License](#license)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -21,7 +22,11 @@
     - [Comment](#comment)
     - [Test locally](#test-locally)
     - [Front Matter](#front-matter)
-- [License](#license)
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Getting Started
 
@@ -147,11 +152,6 @@ date: 2019-5-25 # YYYY-MM-DD
 excerpt: "This is excerpt." # string
 abstract: "This is abstract. Abstract is blank by default." # string
 ```
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 [license-shield]: https://img.shields.io/github/license/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
 [license-url]: https://github.com/senyirauxa/senyirauxa.github.io/blob/master/LICENSE
