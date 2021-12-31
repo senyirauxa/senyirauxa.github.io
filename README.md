@@ -15,7 +15,7 @@ Distribuït sota llicència MIT. Vegeu <a href="https://github.com/senyirauxa/se
 
 <!-- ÍNDEX -->
 ## Índex
-- [Getting Started](#getting-started)
+- [Comença](#comença)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Personalize and Customize](#personalize-and-customize)
@@ -26,7 +26,7 @@ Distribuït sota llicència MIT. Vegeu <a href="https://github.com/senyirauxa/se
     - [Test locally](#test-locally)
     - [Front Matter](#front-matter)
 
-## Getting Started
+## Comença
 
 ### Prerequisites
 * rubygems
