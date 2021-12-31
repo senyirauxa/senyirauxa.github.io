@@ -11,9 +11,6 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [About The Project](#about-the-project)
-  - [Features](#features)
-  - [Builtwith](#builtwith)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -25,38 +22,6 @@
     - [Test locally](#test-locally)
     - [Front Matter](#front-matter)
 - [License](#license)
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-![homepage](src/assets/img/Screenshot-2.png)
-
-This jekyll theme is a content-oriented blog, cv or learning notes, aimed at providing a convinient note-keeping tool. You can keep and review your notes or articles in different collections without any functional recode.
-
-### Features
-
-* Highly customizable
-* Formula insertion
-* Code test online
-* Easy-to-use cheatsheet
-* Hacker-like theme
-* Code highlight
-* Text Decryption
-* Convinient code exhibition and review
-* Table of content
-* Atom Feeds
-* SEO
-
-### Builtwith
-
-* Bundler
-* Jekyll
-* Mathpix
-* Font Awesome
-* Sjcl
-* Disqus
-* Mermaid
 
 ## Getting Started
 
