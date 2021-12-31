@@ -1,15 +1,15 @@
 [![MIT License][license-shield]][license-url]
 
 <!-- LOGO -->
-<h5 align="center">Un tema de Jekyll de DeerRIDER</h5>
+<h3 align="center">Un tema de Jekyll de DeerRIDER</h3>
 <p align="center">
   <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
     <img src="src/assets/img/favicon.png" alt="Logo" width="222" height="222">
   </a>
 </p>
 
-<!-- LICENSE -->
-## License
+<!-- LLICÈNCIA -->
+## Llicència
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
