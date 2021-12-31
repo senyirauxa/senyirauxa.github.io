@@ -5,7 +5,7 @@
   <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
     <img src="src/assets/img/favicon.png" alt="Logo" width="200" height="200">
   </a>
-  <h3 align="center">v.2.4</h3>
+  <h5 align="center">v.2.4 by DeerRIDER</h5>
     <br />
 </p>
 
