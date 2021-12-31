@@ -17,7 +17,7 @@ Distribuït sota llicència MIT. Vegeu <a href="https://github.com/senyirauxa/se
 ## Índex
 - [Comença](#comença)
   - [Prerequisits](#prerequisits)
-  - [Instal·lació](#instal·lació)
+  - [Instal·lació](#installació)
   - [Personalize and Customize](#personalize-and-customize)
     - [_config.yml](#_configyml)
     - [Collections](#collections)
