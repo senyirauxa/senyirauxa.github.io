@@ -1,4 +1,4 @@
-<p align="center">[![MIT License][license-shield]][license-url]</p>
+[![MIT License][license-shield]][license-url]
 
 <!-- LOGO -->
 <br />
@@ -7,9 +7,7 @@
   <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
     <img src="src/assets/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
-
-  <h3 align="center">pRoJEct-VeXEd</h3>
-    <h5 align="center">v 2.4</h5>
+  <h3 align="center">pRoJEct-VeXEd v 2.4</h3>
     <br />
   <p align="center">
     pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
