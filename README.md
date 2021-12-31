@@ -11,7 +11,7 @@
 <!-- LLICÈNCIA -->
 ## Llicència
 
-Distribuït sota llicència MIT. Vegeu `LICENSE` per a més informació.
+Distribuït sota llicència MIT. Vegeu <a href="https://github.com/senyirauxa/senyirauxa.github.io/blob/master/LICENSE">`LICENSE`</a> per a més informació.
 
 <!-- ÍNDEX -->
 ## Índex
