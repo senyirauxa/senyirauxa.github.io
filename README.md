@@ -6,10 +6,12 @@
     <img src="src/assets/img/favicon.png" alt="Logo" width="275" height="275">
   </a>
 </p>
+<!-- LICENSE -->
+## License
 
+Distributed under the MIT License. See `LICENSE` for more information.
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-- [License](#license)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -20,11 +22,6 @@
     - [Comment](#comment)
     - [Test locally](#test-locally)
     - [Front Matter](#front-matter)
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Getting Started
 
